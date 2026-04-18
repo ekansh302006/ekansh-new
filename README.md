@@ -1,4 +1,4 @@
 # ekansh-new
-beginner
+this is my first git repository 
 <br>
-coder
+apiring coder
